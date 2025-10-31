@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "google-login-app",
   "private": true,
   "version": "0.0.0",
@@ -25,5 +26,19 @@
     "eslint-plugin-react-refresh": "^0.4.22",
     "globals": "^16.4.0",
     "vite": "^7.1.7"
+=======
+  "name": "react-js-fed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.11.0"
+>>>>>>> 569a95403e4121849cb32d7b2d1b28bf3cea6b3d
   }
 }
